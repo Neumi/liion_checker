@@ -8,3 +8,11 @@ A 18650 Li-Ion battery checker and charger that can be loaded and unloaded by a 
  - i2c interconnectivity to other chargers and a master
  - 18650 cells can be placed/removed by a robotic gripper
  
+Layout
+![PCB layout](/images/board_layout.png)
+Board
+![PCB rendering](/images/rendering.png)
+Sorting Machine
+![PCB rendering](/images/battery_sorting_machine.png)
+![PCB rendering](/images/animation.gif)
+
